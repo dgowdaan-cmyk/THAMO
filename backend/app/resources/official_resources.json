@@ -1,0 +1,110 @@
+[
+  {
+    "id": "cybercrime_portal_1930",
+    "title": "National Cyber Crime Reporting Portal & Helpline 1930",
+    "jurisdiction": "India (Ministry of Home Affairs / I4C)",
+    "category": "Immediate Fraud Reporting",
+    "purpose": "Citizen Financial Cyber Fraud Reporting System to freeze defrauded funds in transit within the banking network and register formal cybercrime complaints.",
+    "official_url": "https://cybercrime.gov.in",
+    "helpline": "1930 (National Cyber Financial Fraud Helpline - Toll Free)",
+    "verification_status": "verified_official",
+    "last_verified_date": "2026-09-15",
+    "guidance_notes": "Call 1930 immediately within the golden hour (first 2-4 hours) of an unauthorized financial transfer to increase likelihood of fund lien/freezing by banks."
+  },
+  {
+    "id": "sebi_scores",
+    "title": "SEBI SCORES 2.0 (SEBI Complaints Redress System)",
+    "jurisdiction": "India (Securities and Exchange Board of India)",
+    "category": "Regulatory Grievance Redressal",
+    "purpose": "Centralized grievance redress mechanism for investors against SEBI-regulated entities (brokers, depository participants, mutual funds, listed companies).",
+    "official_url": "https://scores.sebi.gov.in",
+    "helpline": "1800 266 7575 / 1800 22 7575 (Toll Free, 9 AM - 6 PM)",
+    "verification_status": "verified_official",
+    "last_verified_date": "2026-09-15",
+    "guidance_notes": "Requires registration details of the regulated entity. Use when an entity you dealt with claims SEBI regulation or fails to resolve your grievance."
+  },
+  {
+    "id": "sebi_intermediary_verification",
+    "title": "SEBI Intermediary Verification Register",
+    "jurisdiction": "India (Securities and Exchange Board of India)",
+    "category": "Registration Verification",
+    "purpose": "Official public searchable registry to verify whether an investment advisor, research analyst, broker, or portfolio manager is legitimately registered with SEBI.",
+    "official_url": "https://www.sebi.gov.in/sebiweb/other/OtherAction.do?doRecognisedFpi=yes&intmId=13",
+    "helpline": "1800 266 7575",
+    "verification_status": "verified_official",
+    "last_verified_date": "2026-09-15",
+    "guidance_notes": "Check registration number, registered name, and contact details. Legitimate registered advisors never guarantee fixed returns or ask for fund deposits into personal savings accounts."
+  },
+  {
+    "id": "rbi_sachet",
+    "title": "RBI Sachet Portal (Unregistered Financial Entities)",
+    "jurisdiction": "India (Reserve Bank of India)",
+    "category": "Illegal Deposit Scheme Warning",
+    "purpose": "State Level Coordination Committee initiative to report and check unauthorized deposit-taking, unregulated Ponzi schemes, and illegal investment apps.",
+    "official_url": "https://sachet.rbi.org.in",
+    "helpline": "14440 (RBI Consumer Education Helpline)",
+    "verification_status": "verified_official",
+    "last_verified_date": "2026-09-15",
+    "guidance_notes": "Allows retail investors to check the Alert List of non-permitted Forex/trading platforms and lodge reports against unapproved deposit collection."
+  },
+  {
+    "id": "nsdl_investor_portal",
+    "title": "NSDL Investor Services & Grievance Portal",
+    "jurisdiction": "India (National Securities Depository Limited)",
+    "category": "Depository Protection",
+    "purpose": "Verification of Demat account holdings, CAS (Consolidated Account Statement), and grievance redressal for securities deposited with NSDL.",
+    "official_url": "https://nsdl.co.in/investor-service.php",
+    "helpline": "022 4886 7000 / 022 2499 7000",
+    "verification_status": "verified_official",
+    "last_verified_date": "2026-09-15",
+    "guidance_notes": "Monitor your CAS monthly to ensure all share allotments, purchases, and sales correspond strictly to your authorized market transactions."
+  },
+  {
+    "id": "cdsl_investor_portal",
+    "title": "CDSL Investor Services & Grievance Mechanism",
+    "jurisdiction": "India (Central Depository Services (India) Limited)",
+    "category": "Depository Protection",
+    "purpose": "Verification of electronic holdings, SMS alerts for securities debits, and direct grievance submission.",
+    "official_url": "https://www.cdslindia.com/investors/investor-grievances.aspx",
+    "helpline": "1800-22-5533 (Toll Free)",
+    "verification_status": "verified_official",
+    "last_verified_date": "2026-09-15",
+    "guidance_notes": "Ensure your mobile number is registered with CDSL/NSDL so you receive instant debit warnings whenever shares move from your demat account."
+  },
+  {
+    "id": "rbi_cms",
+    "title": "RBI CMS (Complaint Management System) - Banking Ombudsman",
+    "jurisdiction": "India (Reserve Bank of India)",
+    "category": "Banking Grievance Redressal",
+    "purpose": "Escalation to Banking Ombudsman if your bank fails to respond or refuses to register an unauthorized transaction complaint within 30 days.",
+    "official_url": "https://cms.rbi.org.in",
+    "helpline": "14448 (Multi-lingual Grievance Assist)",
+    "verification_status": "verified_official",
+    "last_verified_date": "2026-09-15",
+    "guidance_notes": "You must lodge an initial complaint with your bank first. Under RBI guidelines (2017), reporting an unauthorized transaction within 3 days limits customer liability to zero."
+  },
+  {
+    "id": "bse_investor_services",
+    "title": "BSE Investor Services & Arbitration",
+    "jurisdiction": "India (BSE Limited)",
+    "category": "Exchange Redressal",
+    "purpose": "Redressal of investor claims against trading members and registered stockbrokers.",
+    "official_url": "https://www.bseindia.com/investors/invservices.aspx",
+    "helpline": "022 2272 8097",
+    "verification_status": "verified_official",
+    "last_verified_date": "2026-09-15",
+    "guidance_notes": "Useful if a registered broker executed unapproved trades or disputes arise regarding trade confirmation or settlement."
+  },
+  {
+    "id": "nse_investor_services",
+    "title": "NSE Investor Protection & Grievance Cell",
+    "jurisdiction": "India (National Stock Exchange of India)",
+    "category": "Exchange Redressal",
+    "purpose": "Filing claims, verifying authorized trading members, and accessing the Investor Protection Fund (IPF).",
+    "official_url": "https://www.nseindia.com/invest/investor-grievances",
+    "helpline": "1800 266 0058 (Toll Free)",
+    "verification_status": "verified_official",
+    "last_verified_date": "2026-09-15",
+    "guidance_notes": "Verify member credentials before depositing margins. Registered trading accounts are never funded through personal UPI IDs or unrelated individual accounts."
+  }
+]

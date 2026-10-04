@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-slate-50 text-slate-900 font-sans antialiased min-h-screen selection:bg-teal-500/20 selection:text-teal-900;
+  }
+}
+
+.gradient-navy {
+  background: linear-gradient(135deg, #070D1E 0%, #0B132B 60%, #1C2541 100%);
+}
+
+.gradient-teal {
+  background: linear-gradient(135deg, #0D9488 0%, #14B8A6 50%, #5BC0BE 100%);
+}
+
+.glass-panel {
+  background: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(226, 232, 240, 0.8);
+}
+
+.glass-panel-dark {
+  background: rgba(11, 19, 43, 0.85);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(58, 80, 107, 0.4);
+}
