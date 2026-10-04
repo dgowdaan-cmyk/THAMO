@@ -26,7 +26,6 @@ Built for the **SANGYAN Hackathon — SNTC, IIT BHU**.
 7. Official reporting resources
 8. Final safety response
 
-> Replace `PASTE_YOUR_GOOGLE_DRIVE_VIDEO_LINK_HERE` with the shareable Google Drive video link after uploading the demo.
 
 ---
 
